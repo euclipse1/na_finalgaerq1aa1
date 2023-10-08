@@ -76,7 +76,7 @@
 .photos img{
   border-radius: 200px;
   border-style: groove ;
-  width: 8vw;
+  width: 10vw;
   
 }
 
@@ -131,7 +131,7 @@
   background-color: #001d3d;
   border: #00b4d8 8px;
   border-style:ridge;
-  margin-bottom: -2vh;
+  margin-top: 80vh;
 }
 
 
