@@ -76,7 +76,7 @@
 .photos img{
   border-radius: 200px;
   border-style: groove ;
-  width: 10vw;
+  width: 12vw;
   
 }
 
@@ -96,7 +96,7 @@
 
 .socmed img{
   display: inline-block;
-  width: 1vw;
+  width: 3vw;
   padding: 2px;
   float: right;
   margin-right: 1vw;
@@ -131,7 +131,7 @@
   background-color: #001d3d;
   border: #00b4d8 8px;
   border-style:ridge;
-  margin-top: 60vh;
+  margin-bottom: -9px;
 }
 
 
